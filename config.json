@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailrpdate",
+        "uuid": 2640514,
+        "checksum": "fhk99d"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
